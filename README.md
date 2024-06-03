@@ -1,1 +1,1 @@
-this is the project of predicts spaim email
+this is the project to predicts spaim email
